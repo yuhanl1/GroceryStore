@@ -1,0 +1,9 @@
+Assumptions:
+1. Load product information, like product name, product code, pack information and price. In real depolyment, these process can be done from database or by file input (pre-load). I implemented both ways in the program. 
+However, the best way is to fetch the data from database as needed, i.e. "select * from product join packinfo where product_code = '<product code>' order by pack".
+Database can run on the same server as the program (locally), or on remote/distributed servers from the program (remotely). When set to remote, access rules for the remote servers should allow the port of database.
+
+2.Different types of input/output.
+Program implemented the basic console application, the user interaction is happened in command line. However, it can be winforms or web.
+The function ResponseToInput provides the interface to return the results based on two variables, product number and product code.
+For a website, product number and product code can be obtained from a form and submit based on 'GET' or 'POST' request. C# has Razor to read the variables and can invoke the function to get the result and display it on the page.

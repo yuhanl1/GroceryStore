@@ -1,0 +1,11 @@
+D:\Melbourne\Work\Resume\Test\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csprojAssemblyReference.cache
+D:\Melbourne\Work\Resume\Test\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.CoreCompileInputs.cache
+D:\Melbourne\Work\Resume\Test\GroceryStore\GroceryStore\bin\Debug\GroceryStore.exe.config
+D:\Melbourne\Work\Resume\Test\GroceryStore\GroceryStore\bin\Debug\GroceryStore.exe
+D:\Melbourne\Work\Resume\Test\GroceryStore\GroceryStore\bin\Debug\GroceryStore.pdb
+D:\Melbourne\Work\Resume\Test\GroceryStore\GroceryStore\bin\Debug\MySql.Data.dll
+D:\Melbourne\Work\Resume\Test\GroceryStore\GroceryStore\bin\Debug\Google.Protobuf.dll
+D:\Melbourne\Work\Resume\Test\GroceryStore\GroceryStore\bin\Debug\MySql.Data.xml
+D:\Melbourne\Work\Resume\Test\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.CopyComplete
+D:\Melbourne\Work\Resume\Test\GroceryStore\GroceryStore\obj\Debug\GroceryStore.exe
+D:\Melbourne\Work\Resume\Test\GroceryStore\GroceryStore\obj\Debug\GroceryStore.pdb

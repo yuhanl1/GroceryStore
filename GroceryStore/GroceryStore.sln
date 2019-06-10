@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryStore", "GroceryStore\GroceryStore.csproj", "{199B2EFF-C8B0-43F9-B479-46C7AA87B694}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GroceryStoreSetup", "GroceryStoreSetup\GroceryStoreSetup.vdproj", "{288A29B1-80C7-4E35-BC78-9C6D90FC2DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{199B2EFF-C8B0-43F9-B479-46C7AA87B694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199B2EFF-C8B0-43F9-B479-46C7AA87B694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199B2EFF-C8B0-43F9-B479-46C7AA87B694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199B2EFF-C8B0-43F9-B479-46C7AA87B694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288A29B1-80C7-4E35-BC78-9C6D90FC2DA7}.Debug|Any CPU.ActiveCfg = Debug
+		{288A29B1-80C7-4E35-BC78-9C6D90FC2DA7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5145845-BA43-4D08-B57B-72F2EDC5F8FF}
+	EndGlobalSection
+EndGlobal
